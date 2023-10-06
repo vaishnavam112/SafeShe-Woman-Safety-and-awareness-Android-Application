@@ -3,7 +3,7 @@
 
 
 Women Safety App is user friendly application built in Android Studio,
-it is simple to implement,easy to understand.
+it is simple to implement,easy to understand. Used java and APK level 23 virtual phone for experimentation.
 
 
 ## Features
@@ -17,7 +17,7 @@ it is simple to implement,easy to understand.
 #### Prerequisites :
 - Android Studio
 - Basic knowledge about Firebase Authentication and Realtime database.
-## Build and Run Application
+
 
 
 
