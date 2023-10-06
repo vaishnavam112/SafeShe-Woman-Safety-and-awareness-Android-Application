@@ -17,7 +17,7 @@ Simultaneously, the application sends an SMS to her designated guardians – per
 
 Meanwhile, Sarah's heart continues to race, but now it's not just out of fear; it's also filled with hope and relief. She knows that her guardians have received the alert and are on their way to assist her. She can continue walking, with the reassurance that she is not alone.
 
-Ladies and gentlemen of the panel, this is the vision behind our woman safety application – a guardian angel in the form of technology. Our application is not just about sending alerts; it's about empowering women like Sarah to reclaim their sense of security and freedom. It's about harnessing the power of innovation to combat the pervasive issue of women's safety.
+So, this is the vision behind our woman safety application – a guardian angel in the form of technology. Our application is not just about sending alerts; it's about empowering women like Sarah to reclaim their sense of security and freedom. It's about harnessing the power of innovation to combat the pervasive issue of women's safety.
 
 In a world where personal safety is paramount, our application serves as a beacon of hope. It's not just a technological solution; it's a revolution in how we protect and empower women. With your support, we can turn this vision into a reality and ensure that women everywhere can walk the streets with confidence, knowing that help is just a shake away.
 
