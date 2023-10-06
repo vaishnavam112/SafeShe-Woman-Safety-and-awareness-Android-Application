@@ -1,2 +1,25 @@
-# SHE-Woman-Safety-and-Awareness-Application
-If a woman is in danger then she has to just shake her phone and SMS will be sent to the guardian or whoevers number is saved in the application. SMS includes a message and Location of the woman in danger.
+# Women Safety Application
+## _Feel Safe Everywhere_
+
+
+Women Safety App is user friendly application built in Android Studio,
+it is simple to implement,easy to understand.
+
+
+## Features
+
+- Easy to implement
+- Easy to understand
+- Shake detector
+- Shake device to send SOS to registered mobile
+- Sends Last Known Location to registered mobile
+
+#### Prerequisites :
+- Android Studio
+- Basic knowledge about Firebase Authentication and Realtime database.
+## Build and Run Application
+
+
+
+
+   
