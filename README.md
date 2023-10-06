@@ -21,31 +21,7 @@ Ladies and gentlemen of the panel, this is the vision behind our woman safety ap
 
 In a world where personal safety is paramount, our application serves as a beacon of hope. It's not just a technological solution; it's a revolution in how we protect and empower women. With your support, we can turn this vision into a reality and ensure that women everywhere can walk the streets with confidence, knowing that help is just a shake away.
 
-Thank you for your time and consideration. Together, we can make our cities safer and our society more equitable for women everywhere.
 
-
-
-
-User
-woman safety application which send location and sms to the guardians after ashaking the device. How can i introduce this concept to panel members in narrative way.
-ChatGPT
-Allow me to introduce you to a groundbreaking concept that has the potential to change the way we think about women's safety in today's world. Picture a scenario that we're all too familiar with: a young woman named Maya, walking home alone late at night. It's a scenario that's riddled with anxiety and fear, especially given the safety concerns that many women face.
-
-As Maya navigates the dimly lit streets, she clutches her smartphone tightly, not just as a device but as a lifeline. She knows that her safety is paramount, and she's prepared. With every step, her heart races in tandem with the city's pulsating nightlife.
-
-Suddenly, an unsettling feeling washes over her as she senses someone following from behind. Fear grips her, but she doesn't need to fumble with her phone or struggle to dial a number. Instead, she instinctively grabs her smartphone and gives it a gentle shake.
-
-That one simple action triggers an extraordinary chain of events. It's the heart of our innovation, the woman safety application we're here to present. This app is designed to be an invisible guardian, a shield against the darkness of uncertainty.
-
-Upon detecting Maya's shake, the application springs to life with a sense of urgency and purpose. It immediately determines her precise location through the power of GPS technology, ensuring that help can be dispatched to her exact coordinates.
-
-Simultaneously, the app swiftly sends a distress signal to Maya's designated guardians—her family, friends, or anyone she trusts. This message not only conveys that there's an emergency but also provides them with Maya's exact whereabouts, saying, "Emergency! Maya needs help at [GPS coordinates]."
-
-In that pivotal moment, Maya's fear is transformed into a glimmer of hope. She knows that her guardians have received the alert and are rushing to her aid. As she continues her journey home, she's no longer alone; she's protected, supported, and empowered.
-
-So, this woman safety application isn't just another app—it's a beacon of hope in a world where personal safety should never be compromised. It's a testament to the power of innovation harnessed for a noble cause. Our vision is to make women like Maya feel safe, confident, and empowered, reclaiming their right to navigate the world without fear.
-
-In a society that should be characterized by equality and security, we believe that technology can play a pivotal role. With your support, we can turn this vision into a reality and take a significant step toward ensuring that women everywhere can walk through life with confidence, knowing that help is just a shake away.
 
 
 ## Features
